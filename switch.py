@@ -159,3 +159,6 @@ class bulb(pygame.sprite.Sprite):
             sock.update()
         self.updateState()
         self.screen.blit(self.image, (self.rect.topleft))
+
+
+print
